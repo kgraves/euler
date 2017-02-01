@@ -10,5 +10,5 @@ func FUNC() int {
 }
 
 func main() {
-  fmt.Printf("%d", FUNC()))
+  fmt.Printf("%d\n", FUNC()))
 }
